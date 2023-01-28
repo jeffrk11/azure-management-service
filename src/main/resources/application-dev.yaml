@@ -1,0 +1,9 @@
+azure:
+  token: Basic Companytoken
+  url: https://dev.azure.com/e-confy/CompanyName
+  url-search: https://almsearch.dev.azure.com/e-confy/CompanyName/_apis/search/codesearchresults?api-version=7.0
+
+server:
+  port: 8080
+  servlet:
+    context-path: /catalog
